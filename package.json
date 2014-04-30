@@ -11,7 +11,6 @@
     "connect-mongo": "*",
     "mongoose": "*",
     "session-mongoose": "*",
-    "log4js": "*",
-    "q": "^1.0.1"
+    "log4js": "*"
   }
 }
